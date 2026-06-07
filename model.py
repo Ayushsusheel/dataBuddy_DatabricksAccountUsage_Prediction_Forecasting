@@ -75,8 +75,8 @@ class Config:
     output_dir: str
     ceo_actuals_csv: Optional[str] = None
 
-    workspace_name: str = "dbricks-mfgprod-sem-prod"
-    workspace_id_real: str = "3442171567662343"
+    workspace_name: str = "dbbbbb-prod---workspace--name"
+    workspace_id_real: str = "1233445566778899"
 
     train_end_date: str = "2026-03-31"
     holdout_start_date: str = "2026-04-01"
